@@ -1,0 +1,1 @@
+"""Faculty module: faculty, subjects (courses), and course offerings."""

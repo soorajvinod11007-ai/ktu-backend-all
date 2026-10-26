@@ -1,0 +1,1 @@
+"""Admin module: generic CRUD dashboard API (Phase 4)."""

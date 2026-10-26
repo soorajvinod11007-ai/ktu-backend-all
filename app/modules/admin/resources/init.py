@@ -1,0 +1,1 @@
+"""Per-resource admin configs (schemas + repository concerns + hooks)."""
